@@ -9,5 +9,7 @@ public class Sample {
 		System.out.println("hi");
 		
 		System.out.println("java");
+		
+		System.out.println("welcome");
 	}
 }
