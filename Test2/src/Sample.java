@@ -7,5 +7,7 @@ public class Sample {
 		System.out.println("ahmedabad");
 		
 		System.out.println("hi");
+		
+		System.out.println("java");
 	}
 }
